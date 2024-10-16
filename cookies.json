@@ -1,0 +1,16 @@
+[
+    {
+        "domain": ".avito.ru",
+        "name": "sessid",
+        "value": "95abd2d9b2db94f0e50c18e2e8c70af0.1729057746",
+        "path": "/",
+        "expires": 1699999999
+    },
+    {
+        "domain": ".avito.ru",
+        "name": "auth",
+        "value": "1",
+        "path": "/",
+        "expires": 1699999999
+    }
+]
